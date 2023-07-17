@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Summer Term
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "Technische Universität Berlin, Quality and Usability Lab"
+date: 2020-05-01
 location: "City, Country"
 ---
 
