@@ -4,7 +4,7 @@ collection: teaching
 type: "Seminar, Projects, and Tutorials"
 permalink: /teaching/summer-teaching
 venue: "Technische Universität Berlin, Quality and Usability Lab"
-date: 2020/2021/2022/2023
+date: 2020-04-01
 location: "Berlin, Germany"
 ---
 
