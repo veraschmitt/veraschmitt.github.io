@@ -1,5 +1,5 @@
 ---
-title: "Teaching Summer Term
+title: "Teaching Summer Term"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
@@ -7,6 +7,8 @@ venue: "Technische Universität Berlin, Quality and Usability Lab"
 date: 2020-05-01
 location: "City, Country"
 ---
+
+
 
 During the summer term, I am involved in various teaching duties: 
 
