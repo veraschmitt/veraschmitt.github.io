@@ -23,6 +23,7 @@ Work experience
   * [Quality and Usability Lab](https://www.qu.tu-berlin.de/menue/qu/parameter/en/)
   * Duties included: building up an NLP group, research in the domain of usable privacy, intelligent decision support, multimodal disinformation detection, and ethics of AI
   * Supervisor: Professor [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/)
+  * Research Visit: Tel Aviv University Oct-Dec 2022 (DAAD scholarship)
 
 * March 2023: Guest Researcher
   * German Research Center for Artificial Intelligence [DFKI](https://www.dfki.de/web/), Speech and Language Technology [(SLT)](https://www.dfki.de/web/forschung/forschungsbereiche/speech-and-language-technology/) group
