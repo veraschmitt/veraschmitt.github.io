@@ -11,13 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. Computer Science, [Technische Universität Berlin](https://www.tu-berlin.de/), 2023 (expected)
+* * M.S. Data Science, [Leuphana University Lüneburg](https://www.leuphana.de/en/graduate-school/masters-programmes/management-data-science.html), 2019
+* B.S. Politics and Public Administration, [University of Konstanz](https://www.polver.uni-konstanz.de/en/) (additional subject: statistics), 2016
+
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* February 2020: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
