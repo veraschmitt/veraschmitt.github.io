@@ -1,11 +1,11 @@
 ---
-title: "Summer Semester
+title: "Teaching experience 1"
 collection: teaching
-type: "Seminar, Projects, and Tutorials"
-permalink: /teaching/summer-teaching
-venue: "Technische Universität Berlin, Quality and Usability Lab"
-date: 2020-04-01
-location: "Berlin, Germany"
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
 During the summer term, I am involved in various teaching duties: 
