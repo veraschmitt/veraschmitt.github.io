@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate and graduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Technische Universität Berlin, Qaulity and Usability Lab"
-date: 2020-10-15
+date: 
 location: "Berlin, Germany"
 ---
 Please click on Teaching Winter Term to get an overview of the teaching activities. 
