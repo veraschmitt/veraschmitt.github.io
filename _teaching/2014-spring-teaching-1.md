@@ -1,14 +1,13 @@
 ---
 title: "Teaching Winter Term"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate and graduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Technische Universität Berlin, Qaulity and Usability Lab"
 date: 2020-10-15
 location: "Berlin, Germany"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+Please click on Teaching Winter Term to get an overview of the teaching activities. 
 
 Seminar
 ======
