@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "BMBF Project: news-polygraph"
+excerpt: "With 9 partners from industry, research and media outlets together, we will develop a multimodal disinformation detection platform for different journalistic use cases. <br/><img src='/images/final_pic.png'>"
 collection: portfolio
 ---
 
