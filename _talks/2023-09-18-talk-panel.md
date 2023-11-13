@@ -1,5 +1,5 @@
 ---
-title: "Panel Discussion: "AI-Regulation and Data-Protection: Perspectives from the World"
+title: "Panel Discussion: AI-Regulation and Data-Protection: Perspectives from the World"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-09-18-talk-panel
