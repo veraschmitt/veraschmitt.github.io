@@ -1,13 +1,17 @@
 ---
 title: "Teaching Winter Term"
 collection: teaching
-type: "Undergraduate and graduate course"
-permalink: /teaching/2014-spring-teaching-1
+type: "Undergraduate and graduate courses"
+permalink: /teaching/winter-teaching
 venue: "Technische Universität Berlin, Qaulity and Usability Lab"
-date: 
+# date: 2020-10-01
 location: "Berlin, Germany"
+excerpt: "Click on the title to get an overview of the teaching activities during Winter Term."
+
 ---
-Please click on Teaching Winter Term to get an overview of the teaching activities. 
+
+During the Winter term, I am involved in various teaching duties:
+
 
 Seminar
 ======
