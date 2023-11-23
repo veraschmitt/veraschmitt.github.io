@@ -9,5 +9,3 @@ citation: 'Woloszyn, V., Cortes, E. G., Amantea, R., Schmitt, V., Barone, D. A.,
 ---
 
 [Access paper here](https://dl.acm.org/doi/fullHtml/10.1145/3447535.3462640){:target="_blank"}
-
-Recommended citation: Woloszyn, V., Cortes, E. G., Amantea, R., Schmitt, V., Barone, D. A., & Möller, S. (2021, June). Towards a Novel Benchmark for Automatic Generation of ClaimReview Markup. In Proceedings of the 13th ACM Web Science Conference 2021 (pp. 29-35).

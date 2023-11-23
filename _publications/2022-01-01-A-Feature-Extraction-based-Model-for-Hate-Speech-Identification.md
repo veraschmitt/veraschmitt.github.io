@@ -9,7 +9,3 @@ citation: 'Mohtaj, S., Schmitt, V., & Möller, S. (2022). A Feature Extraction b
 ---
 
 [Access paper here](https://arxiv.org/abs/2201.04227){:target="_blank"}
-
-Recommended citation: Mohtaj, S., Schmitt, V., & Möller, S. (2022). A Feature Extraction based Model for Hate Speech Identification. Forum of Information Retrieval Evaluation (FIRE) 2022.
-
-

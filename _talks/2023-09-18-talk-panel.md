@@ -8,6 +8,7 @@ date: 2023-09-18
 location: "Dublin, Ireland"
 ---
 Vera Schmitt, Jennifer Williams, Sneha Das, Tom Bäckström 
+
 [More information here](https://spsc-symposium2023.mobileds.de/)
 
 

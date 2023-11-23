@@ -9,7 +9,3 @@ citation: 'Schmitt, V., Solopova, V., Woloszyn, V., & de Pinho Pinhal, J. D. J. 
 ---
 
 [Access paper here](https://shorturl.at/cfHPV){:target="_blank"}
-
-Recommended citation: Schmitt, V., Solopova, V., Woloszyn, V., & de Pinho Pinhal, J. D. J. (2021). Implications of the New Regulation Proposed by the European Commission on Automatic Content Moderation. In Proc. 2021 ISCA Symposium on Security and Privacy in Speech Communication (pp. 47-51).
-
-
