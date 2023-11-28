@@ -33,12 +33,19 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-    
+
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.collection == 'teaching' %}
+    {% if post.collection == 'projects' %}
+        {% if post.start and post.end %}
+        <p><b>Project Duration:</b> from {{post.start}} until {{post.end}}</p>
+        {% endif %}
+        {% if post.funding %}
+        <p><b>Funding Amount:</b> {{post.funding}}</p>
+        {% endif %}
+    {% elsif post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i></p>
             <!-- , {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
         {% elsif post.collection == 'publications' %}
@@ -52,7 +59,7 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
-    
+
     {% if post.citation and post.paperurl %}
     <!-- Recommended citation: {{ post.citation }}    -->
     <!-- <p><a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p> -->

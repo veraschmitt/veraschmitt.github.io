@@ -5,10 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-
-{% include base_path %}
-
-{% for post in site.projects reversed %}
+{% include base_path %} {% for post in site.projects reversed %}
 <!-- TODO decide what template to use -->
-  {% include archive-single.html %} 
-{% endfor %}
+{% include archive-single.html %} {% endfor %}
