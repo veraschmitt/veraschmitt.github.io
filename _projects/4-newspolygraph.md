@@ -1,5 +1,5 @@
 ---
-title: "NewsPolygraph"
+title: "news-polygraph"
 collection: projects
 permalink: /projects/newspolygraph
 # date: 2023-05-01
