@@ -1,5 +1,5 @@
 ---
-title: "news-polygraph"
+title: "BMBF Project: news-polygraph"
 collection: projects
 permalink: /projects/newspolygraph
 # date: 2023-05-01
@@ -8,7 +8,7 @@ start: 2023-05
 end: 2026-04
 funding: "EUR 1,492,547"
 location: "Berlin, Germany"
-excerpt: 'MOVERA - Multimodal Orchestra-tion for Media-Content Verification; Teilvorhaben 3: TextBase: Text-basierte Analy-severfahren für Multi-Modale Fake-News Identifizierung'
+excerpt: 'news-polygraph - Multimodal Orchestra-tion for Media-Content Verification; Teilvorhaben 3: TextBase: Text-basierte Analy-severfahren für Multi-Modale Fake-News Identifizierung'
 ---
 
 news-polygraph - Multimodal Orchestration for Media-Content Verification; Teilvorhaben 3: TextBase: Textbasierte Analyseverfahren für Multi-Modale Fake-News Identifizierung
@@ -23,7 +23,7 @@ Description
 The news-polygraph project brings together partners from industry, media, and research to work on effective solutions to integrate AI as intelligent decision support in the information verification workflow. Hereby, the XplaiNLP team from TU Berlin will focus on the analysis of disinformation of text sources.
 
 Project partners
-===
+---
 **Industry:** Ubermetrics, delphai, Crowdee, neurocat, transfermedia
 
 **Media:** Deutsche Welle, RBB
@@ -31,7 +31,7 @@ Project partners
 **Research:** DFKI, TUB, Fraunhofer IDMT 
 
 Funding:
-===
+---
 Bundesministerium für Bildung und Forschung (Berlin, Berlin, DE)
 
 **Funding** RUBIN BMBF (total funding volume for news-polygraph 12,775,884€)
