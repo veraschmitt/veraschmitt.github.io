@@ -17,13 +17,6 @@ news-polygraph - Multimodal Orchestration for Media-Content Verification; Teilvo
 
 **URL:** [https://news-polygraph.com/](https://news-polygraph.com/)
 
-Organization identifiers
-===
-Bundesministerium für Bildung und Forschung (Berlin, Berlin, DE)
-
-**Funding** RUBIN BMBF (total funding volume for news-polygraph 12,775,884€)
-
-**Funding for TU Berlin:** EUR 1,492,547
 
 Description
 ---
@@ -36,3 +29,11 @@ Project partners
 **Media:** Deutsche Welle, RBB
 
 **Research:** DFKI, TUB, Fraunhofer IDMT 
+
+Funding:
+===
+Bundesministerium für Bildung und Forschung (Berlin, Berlin, DE)
+
+**Funding** RUBIN BMBF (total funding volume for news-polygraph 12,775,884€)
+
+**Funding for TU Berlin:** EUR 1,492,547
