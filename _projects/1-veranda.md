@@ -2,7 +2,7 @@
 title: "BMBF Project: VERANDA"
 collection: projects
 permalink: /projects/veranda
-# date: 2024-03-01
+# date: 2024-01-01
 start: 2024-03
 end: 2026-09
 funding: "EUR 321,600"
