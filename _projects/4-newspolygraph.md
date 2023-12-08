@@ -11,7 +11,7 @@ location: "Berlin, Germany"
 excerpt: 'MOVERA - Multimodal Orchestra-tion for Media-Content Verification; Teilvorhaben 3: TextBase: Text-basierte Analy-severfahren für Multi-Modale Fake-News Identifizierung'
 ---
 
-MOVERA - Multimodal Orchestration for Media-Content Verification; Teilvorhaben 3: TextBase: Textbasierte Analyseverfahren für Multi-Modale Fake-News Identifizierung
+news-polygraph - Multimodal Orchestration for Media-Content Verification; Teilvorhaben 3: TextBase: Textbasierte Analyseverfahren für Multi-Modale Fake-News Identifizierung
 
 **Grant Duration:** 2023-05 to 2026-04
 
@@ -21,11 +21,9 @@ Organization identifiers
 ===
 Bundesministerium für Bildung und Forschung (Berlin, Berlin, DE)
 
-**FUNDREF:** [http://dx.doi.org/10.13039/501100002347](http://dx.doi.org/10.13039/501100002347)
+**Funding** RUBIN BMBF (total funding volume for news-polygraph 12,775,884€)
 
-**Funding** subtype RUBIN BMBF Funding (total funding volume for MOVERA is 13 Million €)
-
-**Total funding amount:** EUR 1,492,547
+**Funding for TU Berlin:** EUR 1,492,547
 
 Description
 ---
@@ -37,4 +35,4 @@ Project partners
 
 **Media:** Deutsche Welle, RBB
 
-**Research:** DFKI, TUB, Fraunhofer IDMT (Gesamtvolumen des Projekts: 12,775,884€)
+**Research:** DFKI, TUB, Fraunhofer IDMT 
