@@ -5,7 +5,7 @@ permalink: /projects/moneraty-valuation-of-location-information
 # date: 2020-02-01
 # venue: 'Planet Earth'
 location: "Berlin, Germany"
-excerpt: 'Evaluating different methods for the monetary evaluation of privacy'
+excerpt: 'Evaluating different methods for the economic perspective of privacy and association to other privacy constructs.'
 start: 2020-02
 end: 2023-01
 funding: "EUR 233,220"
