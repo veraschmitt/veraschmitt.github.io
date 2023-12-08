@@ -2,7 +2,7 @@
 title: "DFG Project: Monetary Evaluation of Location Information"
 collection: projects
 permalink: /projects/moneraty-valuation-of-location-information
-# date: 2020-02-01
+date: 2020-02-01
 # venue: 'Planet Earth'
 location: "Berlin, Germany"
 excerpt: 'Evaluating different methods for the economic perspective of privacy and association to other privacy constructs.'
