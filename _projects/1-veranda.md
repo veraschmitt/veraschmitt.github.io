@@ -2,18 +2,20 @@
 title: "VERANDA"
 collection: projects
 permalink: /projects/veranda
-# date: 2023-06-01
+# date: 2024-03-01
+start: 2024-03
+end: 2026-09
+funding: "EUR 321,600"
 # venue: 'Planet Earth'
 location: "Berlin, Germany"
 excerpt: 'Vertrauenswürdige Anonymisierung sensibler Patient*Innendaten für Fernkonsultationen'
-funding: "EUR 321,600"
 ---
 
 
-**Funding subtype:** BMBF-funded project (funding volume for VERANDA 1.9 Million €)
+The VERANDA project is dedicated to applied research into informational self-determination. This includes the analysis, conception, and implementation of information about risks and the sovereign handling of personal data. The project focuses on both the individual and societal level. Specifically, we are looking at the use case of self-determination over personal and highly sensitive medical data in the area of highly stigmatized groups.
 
-**Total funding amount:** EUR 321,600
+**Project partners:** BIH and IfSS Charité, Q&U Lab Technische Universität Berlin, SLT German Research Center for Artificial Intelligence, Fraunhofer AISEC 
 
-Das Projekt VERANDA widmet sich der angewandten Erforschung der informationellen Selbstbestimmung. Dazugehören die Analyse, Konzeption und Umsetzung der Aufklärung über Risiken sowie der souveräne Umgang mitpersönlichen Daten. Der Schwerpunkt des Projekts liegt sowohl auf individueller als auch auf gesellschaftlicher Ebene. Konkret betrachten wir in diesem Zusammenhang den Anwendungsfall der Selbstbestimmung über per-sönliche und hochsensible medizinische Daten im Bereich stark stigmatisierter Gruppen.
+**Total funding amount:** BMBF-funded project (funding volume for VERANDA  EUR 1,998,825)
 
-**Project partners:** BIH und IfSS Charité, Q&U Lab Technische Universität Berlin, SLT Deutschen Forschungszentrum für Künstliche Intelligenz, Fraunhofer AISEC (Gesamtvolumen des Projekts: 1,998,825 €)
+**Funding amount for TU Berlin:** EUR 321,600
