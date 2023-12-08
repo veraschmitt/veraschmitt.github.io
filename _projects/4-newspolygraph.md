@@ -8,7 +8,7 @@ start: 2023-05
 end: 2026-04
 funding: "EUR 1,492,547"
 location: "Berlin, Germany"
-excerpt: 'news-polygraph - Multimodal Orchestra-tion for Media-Content Verification; Teilvorhaben 3: TextBase: Text-basierte Analy-severfahren für Multi-Modale Fake-News Identifizierung'
+excerpt: 'news-polygraph - Multimodal Orchestration for Media-Content Verification'
 ---
 
 news-polygraph - Multimodal Orchestration for Media-Content Verification; Teilvorhaben 3: TextBase: Textbasierte Analyseverfahren für Multi-Modale Fake-News Identifizierung
