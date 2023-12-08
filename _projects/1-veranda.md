@@ -8,7 +8,7 @@ end: 2026-09
 funding: "EUR 321,600"
 # venue: 'Planet Earth'
 location: "Berlin, Germany"
-excerpt: 'Vertrauenswürdige Anonymisierung sensibler Patient*Innendaten für Fernkonsultationen'
+excerpt: 'Trustworthy anonymization of sensitive patient data for remote consultations.'
 ---
 
 
