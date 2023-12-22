@@ -27,7 +27,7 @@ Work experience
 * March 2023: Guest Researcher
   * German Research Center for Artificial Intelligence [DFKI](https://www.dfki.de/web/), Speech and Language Technology [(SLT)](https://www.dfki.de/web/forschung/forschungsbereiche/speech-and-language-technology/) group
 
-* March 2022: Research Visit Tel Aviv 
+* End of 2022: Research Visit Tel Aviv 
   * Oct-Dec research visit at the Tel Aviv University  at the Department of Industrial Engineering at the Chair of [Prof. Joachim Meyer](https://english.tau.ac.il/profile/jmeyer) (funded by a DAAD scholarship). 
 
 * March 2019 - September 2019: Working Student
