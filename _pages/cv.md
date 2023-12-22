@@ -28,7 +28,7 @@ Work experience
   * German Research Center for Artificial Intelligence [DFKI](https://www.dfki.de/web/), Speech and Language Technology [(SLT)](https://www.dfki.de/web/forschung/forschungsbereiche/speech-and-language-technology/) group
 
 * March 2022: Research Visit Tel Aviv 
-  * Oct-Dec research visit at the Tel Aviv University  at the Department of Industrial Engineering at the Chair of [Prof. Joachim Meyer]([https://www.dfki.de/web/](https://english.tau.ac.il/profile/jmeyer) (funded by DAAD scholarship). 
+  * Oct-Dec research visit at the Tel Aviv University  at the Department of Industrial Engineering at the Chair of [Prof. Joachim Meyer](https://english.tau.ac.il/profile/jmeyer) (funded by a DAAD scholarship). 
 
 * March 2019 - September 2019: Working Student
   * [Data and AI Group]([http://www.ictrc.ac.ir/EN/Home)](https://www.hapag-lloyd.com/en/company/career/working-in-tech/overview/data-ai.html)
