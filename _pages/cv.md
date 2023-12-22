@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Computer Science, [Technische Universität Berlin](https://www.tu-berlin.de/), 2023 (expected)
-* M.S. Data Science, [Leuphana University Lüneburg](https://www.leuphana.de/en/graduate-school/masters-programmes/management-data-science.html), 2019
-* B.S. Politics and Public Administration, [University of Konstanz](https://www.polver.uni-konstanz.de/en/) (additional subject: statistics), 2016
+* Ph.D. Computer Science, [Technische Universität Berlin](https://www.tu-berlin.de/), 2024 (expected)
+* M.Sc. Data Science, [Leuphana University Lüneburg](https://www.leuphana.de/en/graduate-school/masters-programmes/management-data-science.html), 2019
+* B.A. Politics and Public Administration, [University of Konstanz](https://www.polver.uni-konstanz.de/en/) (additional subject: statistics), 2016
 
 
 
@@ -23,10 +23,12 @@ Work experience
   * [Quality and Usability Lab](https://www.qu.tu-berlin.de/menue/qu/parameter/en/)
   * Duties included: building up an NLP group, research in the domain of usable privacy, intelligent decision support, multimodal disinformation detection, and ethics of AI
   * Supervisor: Professor [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/)
-  * Research Visit: Tel Aviv University Oct-Dec 2022 (DAAD scholarship)
 
 * March 2023: Guest Researcher
   * German Research Center for Artificial Intelligence [DFKI](https://www.dfki.de/web/), Speech and Language Technology [(SLT)](https://www.dfki.de/web/forschung/forschungsbereiche/speech-and-language-technology/) group
+
+* March 2022: Research Visit Tel Aviv 
+  * Oct-Dec research visit at the Tel Aviv University  at the Department of Industrial Engineering at the Chair of [Prof. Joachim Meyer]([https://www.dfki.de/web/](https://english.tau.ac.il/profile/jmeyer) (funded by DAAD scholarship). 
 
 * March 2019 - September 2019: Working Student
   * [Data and AI Group]([http://www.ictrc.ac.ir/EN/Home)](https://www.hapag-lloyd.com/en/company/career/working-in-tech/overview/data-ai.html)
