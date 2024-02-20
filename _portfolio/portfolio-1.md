@@ -1,6 +1,6 @@
 ---
 title: "BMBF Project: news-polygraph"
-excerpt: "With 9 partners from industry, research and media outlets together, we will develop a multimodal disinformation detection platform for different journalistic use cases. <br/><img src='/images/final_pic.png'>"
+excerpt: "With 10 partners from industry, research, and media outlets together, we will develop a multimodal disinformation detection platform for different journalistic use cases. <br/><img src='/images/final_pic.png'>"
 collection: portfolio
 ---
 
