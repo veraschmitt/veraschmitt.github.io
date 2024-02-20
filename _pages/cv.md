@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* February 2020: Research Assistant
+* February 2020: Researcher
   * [Quality and Usability Lab](https://www.qu.tu-berlin.de/menue/qu/parameter/en/)
   * Duties included: building up an NLP group, research in the domain of usable privacy, intelligent decision support, multimodal disinformation detection, and ethics of AI
   * Supervisor: Professor [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/)
