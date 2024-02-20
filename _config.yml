@@ -82,9 +82,11 @@ analytics:
 author:
   name             : "Vera Schmitt"
   avatar           : "profile.png"
-  bio              : "Researcher at Quality & Usability Lab Technische Universität Berlin"
+  bio              : "Researcher at Quality & Usability Lab Technische Universität Berlin and Speech and Language TEchnelogy Lab at German Research Center for Artificial Intelligence (DFKI)"
   location         : "Berlin"
   employer         :
+  linkedin         : "vera-schmitt"
+  orcid            : "https://orcid.org/0000-0002-9735-6956"
  # pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=pKbJC10AAAAJ&hl=en&oi=ao"
   email            :
@@ -102,8 +104,8 @@ author:
   instagram        :
  # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "vera-schmitt"
-  orcid            : "https://orcid.org/0000-0002-9735-6956"
+
+  
   pinterest        :
   soundcloud       :
   #stackoverflow    : # http://stackoverflow.com/users/123456/username
