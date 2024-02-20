@@ -15,7 +15,7 @@ news-polygraph - Multimodal Orchestration for Media-Content Verification; Teilvo
 
 **Grant Duration:** 2023-05 to 2026-04
 
-**URL:** [https://news-polygraph.com/](https://news-polygraph.com/)
+**URL:** [news-polygraph, öargest research project on multimodal disinformation detection in Germany](https://news-polygraph.com/)
 
 
 Description
