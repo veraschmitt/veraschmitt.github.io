@@ -3,7 +3,7 @@ title: "What is Your Information Worth? A Systematic Analysis of the Endowment E
 collection: publications
 permalink: /publication/What-is-Your-Information-Worth
 date: 2023-11-08
-venue: 'Nordic Conference on Secure IT Systems'
+venue: 'Schmitt, Vera, Daniel Sivizaca Conde, Premtim Sahitaj, and Sebastian Möller. "What is Your Information Worth? A Systematic Analysis of the Endowment Effect of Different Data Types." In Nordic Conference on Secure IT Systems, pp. 223-242. Cham: Springer Nature Switzerland, 2023.'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-47748-5_13'
 citation: 'Schmitt, Vera, Daniel Sivizaca Conde, Premtim Sahitaj, and Sebastian Möller. "What is Your Information Worth? A Systematic Analysis of the Endowment Effect of Different Data Types." In Nordic Conference on Secure IT Systems, pp. 223-242. Cham: Springer Nature Switzerland, 2023.'
 ---
