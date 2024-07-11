@@ -7,3 +7,5 @@ venue: 'Salar Mohtaj; Vera Schmitt; Razieh Khamsehashari; Sebastian Möller. Mul
 paperurl: 'https://ceur-ws.org/Vol-3596/paper36.pdf'
 citation: 'Salar Mohtaj; Vera Schmitt; Razieh Khamsehashari; Sebastian Möller. Multi-task Learning for German Text Readability Assessment. CLiC-it - 9th Italian Conference on Computational Linguistics 2023.'
 ---
+
+[Access paper here](https://ceur-ws.org/Vol-3596/paper36.pdf){:target="_blank"}
