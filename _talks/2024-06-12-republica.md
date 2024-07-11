@@ -1,7 +1,7 @@
 ---
 title: "Invited Talk: Deepfakes - Our New Reality"
 collection: talks
-type: "Expert Workshop"
+type: "Invited Talk"
 permalink: /talks/2024-06-12-republica
 venue: "re:publica"
 date: 2024-06-12
