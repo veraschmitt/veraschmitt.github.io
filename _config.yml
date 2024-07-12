@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Research Profile"
 title_separator          : "-"
 name                     : &name "Vera Schmitt"
-description              : &description "Research scientist at Technische Universität Berlin"
+description              : &description "Research group lead at Technische Universität Berlin"
 url                      : https://veraschmitt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "veraschmitt/veraschmitt.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Vera Schmitt"
   avatar           : "profile.png"
-  bio              : "Researcher at Quality & Usability Lab Technische Universität Berlin and Speech and Language Technology at the German Research Center for Artificial Intelligence (DFKI)"
+  bio              : "Researcher group lead at the Quality & Usability Lab Technische Universität Berlin and guest researcher at Speech and Language Technology at the German Research Center for Artificial Intelligence (DFKI)"
   location         : "Berlin"
   employer         :
  # pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
