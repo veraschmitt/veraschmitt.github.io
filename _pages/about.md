@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- Research group lead of the [XplaiNLP Team](https://www.tu.berlin/qu/forschung/forschungsgruppen/xplainlp) at the [Department of Electrical Engineering and Computer Science, Quality and Usability Lab, Technische Universität Berlin](https://www.qu.tu-berlin.de/menue/qu/parameter/en/)
+- Research group lead of the [XplaiNLP Group](https://www.tu.berlin/qu/forschung/forschungsgruppen/xplainlp) at the [Department of Electrical Engineering and Computer Science, Quality and Usability Lab, Technische Universität Berlin](https://www.qu.tu-berlin.de/menue/qu/parameter/en/)
 - Guest Researcher at German Research Center for Artificial Intelligence [(DFKI)](https://www.dfki.de/web/), Speech and Language Technology [(SLT)](https://www.dfki.de/web/forschung/forschungsbereiche/speech-and-language-technology/) group
 
 
