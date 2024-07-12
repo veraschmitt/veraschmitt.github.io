@@ -5,7 +5,7 @@ permalink: /projects/veranda
 date: 2024-03-01
 start: 2024-03
 end: 2026-09
-funding: "EUR 321,600"
+funding: "EUR 321,598,51 (total funding: 1,998,825)"
 # venue: 'Planet Earth'
 location: "Berlin, Germany"
 excerpt: 'Trustworthy anonymization of sensitive patient data for remote consultations.'
