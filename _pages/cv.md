@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Computer Science, [Technische Universität Berlin](https://www.tu-berlin.de/), 2024 (expected)
+* Ph.D. Computer Science, [Technische Universität Berlin](https://www.tu-berlin.de/), Aug. 2024
 * M.Sc. Data Science, [Leuphana University Lüneburg](https://www.leuphana.de/en/graduate-school/masters-programmes/management-data-science.html), 2019
 * B.A. Politics and Public Administration, [University of Konstanz](https://www.polver.uni-konstanz.de/en/) (additional subject: statistics), 2016
 
@@ -21,8 +21,9 @@ Work experience
 ======
 * February 2020: Researcher
   * [Quality and Usability Lab](https://www.qu.tu-berlin.de/menue/qu/parameter/en/)
-  * Duties included: building up an NLP group, research in the domain of usable privacy, intelligent decision support, multimodal disinformation detection, and ethics of AI
-  * Supervisor: Professor [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/)
+  * Tasks included: building up an [XplaiNLP Group](https://www.tu.berlin/qu/forschung/forschungsgruppen/xplainlp), project acquisition, project management, and research in the domain of NLP, Usable privacy, intelligent decision support, legal and ethical implications of AI systems
+  * The XplaiNLP group works on several research projects which I acquired and manage: [news-polygraph](https://www.tu.berlin/qu/forschung/laufende-vergangene-projekte/laufende-projekte/news-polygraph), [VERANDA](https://www.tu.berlin/qu/forschung/laufende-vergangene-projekte/laufende-projekte/veranda), and [FakeXplain](https://www.tu.berlin/qu/forschung/laufende-vergangene-projekte/laufende-projekte/fakexplain)
+  * Guidance: Professor [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/)
 
 * March 2023: Guest Researcher
   * German Research Center for Artificial Intelligence [DFKI](https://www.dfki.de/web/), Speech and Language Technology [(SLT)](https://www.dfki.de/web/forschung/forschungsbereiche/speech-and-language-technology/) group
