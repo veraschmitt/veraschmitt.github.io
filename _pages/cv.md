@@ -21,8 +21,8 @@ Work experience
 ======
 * February 2020: Researcher
   * [Quality and Usability Lab](https://www.qu.tu-berlin.de/menue/qu/parameter/en/)
-  * Tasks included: building up an [XplaiNLP Group](https://www.tu.berlin/qu/forschung/forschungsgruppen/xplainlp), project acquisition, project management, and research in the domain of NLP, Usable privacy, intelligent decision support, legal and ethical implications of AI systems
-  * The XplaiNLP group works on several research projects which I acquired and manage: [news-polygraph](https://www.tu.berlin/qu/forschung/laufende-vergangene-projekte/laufende-projekte/news-polygraph), [VERANDA](https://www.tu.berlin/qu/forschung/laufende-vergangene-projekte/laufende-projekte/veranda), and [FakeXplain](https://www.tu.berlin/qu/forschung/laufende-vergangene-projekte/laufende-projekte/fakexplain)
+  * Tasks include: building up an [XplaiNLP Group](https://www.tu.berlin/qu/forschung/forschungsgruppen/xplainlp), project acquisition, project management, and research in the domain of NLP, Usable Privacy, Intelligent Decision Support, legal and ethical implications of AI systems
+  * The XplaiNLP group works on several research projects which I acquired and manage: among others [news-polygraph](https://www.tu.berlin/qu/forschung/laufende-vergangene-projekte/laufende-projekte/news-polygraph), [VERANDA](https://www.tu.berlin/qu/forschung/laufende-vergangene-projekte/laufende-projekte/veranda), and [FakeXplain](https://www.tu.berlin/qu/forschung/laufende-vergangene-projekte/laufende-projekte/fakexplain)
   * Guidance: Professor [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/)
 
 * March 2023: Guest Researcher
