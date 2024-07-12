@@ -6,7 +6,7 @@ date: 2024-05-01
 # venue: 'Planet Earth'
 start: 2024-05
 end: 2027-04
-funding: "EUR 320,000"
+funding: "EUR 269,100"
 location: "Berlin, Germany"
 excerpt: 'FakeXplain – Development of transparent and meaningful explanations for disinformation detection'
 ---
