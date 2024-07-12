@@ -8,7 +8,7 @@ location: "Berlin, Germany"
 excerpt: 'Evaluating different methods for the economic perspective of privacy and association to other privacy constructs.'
 start: 2020-02
 end: 2023-01
-funding: "EUR 233,220"
+funding: "EUR 233.220"
 ---
 
 Description
