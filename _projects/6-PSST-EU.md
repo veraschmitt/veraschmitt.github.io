@@ -6,7 +6,7 @@ date: 2024-05-01
 # venue: 'Planet Earth'
 start: 2025-03
 end: 2028-02
-funding: "EUR 521,978 (total funding 4,067,942.4)"
+funding: "EUR 521.978 (total funding 4.067.942,4)"
 location: "Berlin, Germany"
 excerpt: 'Privacy for Smart Speech Technology'
 ---
