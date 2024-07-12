@@ -1,7 +1,7 @@
 ---
 title: "Invited Talk SoftwareCampus: How to regulate AI?” introducing the AI Act, DSA and DA for LLM applications"
 collection: talks
-type: "Expert Workshop"
+type: "Invited Talk"
 permalink: /talks/2024-03-12-Softwarecampus
 venue: "SoftwareCampus"
 date: 2024-03-12
