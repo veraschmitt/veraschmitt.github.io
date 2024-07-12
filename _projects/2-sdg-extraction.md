@@ -6,7 +6,7 @@ date: 2023-03-01
 # venue: 'Planet Earth'
 start: 2023-03
 end: 2023-12
-funding: "EUR 60,000"
+funding: "EUR 60.000"
 location: "Berlin, Germany"
 excerpt: 'Automatic Extraction of Sustainable Development Goals from Text (ateSDG)'
 ---
