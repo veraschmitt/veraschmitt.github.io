@@ -1,5 +1,5 @@
 ---
-title: 'Is Privacy a Trait or a State? Examining Hangriness and its Influence on Individual's Privacy Perception'
+title: 'Is Privacy a Trait or a State? Examining Hangriness and its Influence on Individuals Privacy Perception'
 collection: publications
 permalink: /publication/Is-Privacy-a-Trait-or-a-State
 date: 2023-09-03
