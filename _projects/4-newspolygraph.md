@@ -6,7 +6,7 @@ permalink: /projects/newspolygraph
 # venue: 'Planet Earth'
 start: 2023-05
 end: 2026-04
-funding: "EUR 1,492,547"
+funding: "EUR 1,492,547 (total funding: 13,216,784.8)"
 location: "Berlin, Germany"
 excerpt: 'news-polygraph - Multimodal Orchestration for Media-Content Verification'
 ---
