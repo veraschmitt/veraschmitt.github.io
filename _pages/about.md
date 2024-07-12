@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-- Research Scientist and Ph.D. candidate in Computer Science at [Technische Universität Berlin](https://www.tu-berlin.de/), Department of [Electrical Engineering and Computer Science](https://www.eecs.tu-berlin.de/menue/fakultaet_iv/parameter/en), advised by Prof. [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/), [Quality and Usability lab](https://www.qu.tu-berlin.de/menue/qu/parameter/en/)
+- Research group lead of the [XplaiNLP Team](https://www.tu.berlin/qu/forschung/forschungsgruppen/xplainlp) at the [Department of Electrical Engineering and Computer Science, Quality and Usability Lab, Technische Universität Berlin]([https://www.tu-berlin.de/](https://www.qu.tu-berlin.de/menue/qu/parameter/en/)
 - Guest Researcher at German Research Center for Artificial Intelligence [(DFKI)](https://www.dfki.de/web/), Speech and Language Technology [(SLT)](https://www.dfki.de/web/forschung/forschungsbereiche/speech-and-language-technology/) group
 
 
 
 Research Interest: 
 ======
-- Natural Language Processing and Information Retrieval in the domain of disinformation detection
-- Human-Computer Interaction: development of intelligent decision support systems for human-AI collaborative fake news detection (in collaboration with the Tel Aviv University)
-- Usable Security and Privacy: the economic perspective of privacy and relation to privacy dimensions such as privacy concern, privacy behavior, privacy literacy, and risk and trust believes
-- Ethics of AI: Examination of the impact of regulatory frameworks and their technical requirements on NLP-related tasks 
+- Human-Computer Interaction: development of intelligent decision support systems for human-AI collaborative tasks. Transparency and Usability are highly relevant to make AI-based IDSS useful, thus, we include xAI and transparency metrics in the IDSS design (use case: disinformation detection, medical data analysis)
+- Natural Language Processing and Information Retrieval, Entity Recognition, Retrieval Augmented Generation, fine-tuning LLMs for various downstream tasks
+- Usable Security and Privacy: GDPR compliance analysis, examining efficient ways of representing privacy-related information for several use cases, examining the economic value of privacy from the user's perspective
+- Legal and Ethical Considerations: Analyse implications of the AI Act, DSA, GDPR and Data Act on the data aggregation and development of AI-based IDSS for different use cases  
