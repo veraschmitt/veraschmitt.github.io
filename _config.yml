@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Research Profile"
 title_separator          : "-"
-name                     : &name "Dr. Vera Schmitt"
+name                     : &name "Vera Schmitt"
 description              : &description "Research group lead at Technische Universität Berlin"
 url                      : https://veraschmitt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
