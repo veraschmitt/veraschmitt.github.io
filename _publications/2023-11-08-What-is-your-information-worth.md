@@ -1,11 +1,11 @@
 ---
-title: "What is Your Information Worth? A Systematic Analysis of the Endowment Effect of Different Data Types"
-collection: publications
-permalink: /publication/What-is-Your-Information-Worth
-date: 2023-11-08
-venue: 'Schmitt, Vera, Daniel Sivizaca Conde, Premtim Sahitaj, and Sebastian Möller. "What is Your Information Worth? A Systematic Analysis of the Endowment Effect of Different Data Types." In Nordic Conference on Secure IT Systems, pp. 223-242. Cham: Springer Nature Switzerland, 2023.'
-paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-47748-5_13'
-citation: 'Schmitt, Vera, Daniel Sivizaca Conde, Premtim Sahitaj, and Sebastian Möller. "What is Your Information Worth? A Systematic Analysis of the Endowment Effect of Different Data Types." In Nordic Conference on Secure IT Systems, pp. 223-242. Cham: Springer Nature Switzerland, 2023.'
+title: "Overall funding aquired EUR 4.068.066 EUR"
+collection: projects
+permalink: /projects/overall-funding
+date: 2027-05-01
+# venue: 'Planet Earth'
 ---
 
-[Access paper here](https://doi.org/10.1007/978-3-031-47748-5_13){:target="_blank"}
+**EU Marie Curie Funding:** EUR 521.978,
+**BMBF** EUR 3.217.888,
+**Other** EUR 329.100
