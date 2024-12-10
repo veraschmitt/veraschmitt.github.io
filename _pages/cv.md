@@ -9,4 +9,4 @@ redirect_from:
 
 You can download my CV as a PDF here:
 
-[Download my CV (PDF)](/assets/CV_Vera_Schmitt_General.pdf)
+[Open CV (PDF)](/assets/CV_Vera_Schmitt_General.pdf)
