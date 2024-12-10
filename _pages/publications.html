@@ -5,12 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can also find my articles on <u><a href="{{ author.googlescholar }}">my Google Scholar profile</a>.</u>
 
-{% include base_path %}
+---
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Introduction
+
+Here is some plain text you can edit freely. Add descriptions, explanations, or any other content here to provide context for your publications. For example:
+
+- *This page lists my most significant research contributions in the field of NLP and disinformation detection.*
+- *For a complete list, visit my [Google Scholar profile]({{ author.googlescholar }}).*
+
+---
