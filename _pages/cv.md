@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
-You can open my full CV as a PDF here:
 
-[Open CV (PDF)](/assets/CV_Vera_Schmitt_General.pdf)
+
+<strong><a href="/assets/CV_Vera_Schmitt_General.pdf" target="_blank">You can open my full CV as a PDF here</a></strong>
+
+
