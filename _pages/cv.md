@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-You can download my CV as a PDF here:
+You can open my full CV as a PDF here:
 
 [Open CV (PDF)](/assets/CV_Vera_Schmitt_General.pdf)
