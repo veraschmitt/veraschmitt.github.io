@@ -11,7 +11,7 @@ redirect_from:
 [GI Junior Fellow](https://gi.de/meldung/junior-fellows-2025) and member of [CERTAIN](https://www.certain-trust.eu/who-we-are/).<br>
 Guest Researcher at [DFKI](https://www.dfki.de/web/)
 
-### **Research Interest of the [XplaiNLP](https://xplainlp.github.io/) Research Group: Transparent and Trustworthy AI for Decision Support in High-Stakes Domains**
+ **Research Interest of the XplaiNLP Research Group: Transparent and Trustworthy AI for Decision Support in High-Stakes Domains**
 
 The XplaiNLP group develops Intelligent Decision Support Systems (IDSS) that are explainable, robust, and human-centered. Our research spans the entire IDSS pipeline, combining NLP and (M)LLMs, Explainable AI and mechanistic interpretability, HCI, and legal analysis so that AI-driven decisions align with ethical and societal values. We focus on high-risk applications where human oversight is critical:
 
