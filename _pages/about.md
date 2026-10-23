@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 **Founder and Head of** [**XplaiNLP Research Group**](https://xplainlp.github.io/) at [Johannes Gutenberg University Mainz](https://xplainlp.uni-mainz.de/) and [Technical University Berlin](https://www.tu.berlin/qu/forschung/forschungsgruppen/xplainlp)
+
 **Guest Researcher** at [(DFKI)](https://www.dfki.de/web/)
+
 [GI Junior Fellow](https://gi.de/meldung/junior-fellows-2025) and member of [CERTAIN](https://www.certain-trust.eu/who-we-are/). 
 
 ### **Research Interest of the [XplaiNLP](https://xplainlp.github.io/) Research Group: Transparent and Trustworthy AI for Decision Support in High-Stakes Domains**
