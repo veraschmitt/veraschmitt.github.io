@@ -1,1 +1,17 @@
+{% comment %}
+  News table. Entries live in _data/news.yml.
+  Optional: {% include news.html limit=5 %} shows only the newest 5.
+{% endcomment %}
+{% assign news_limit = include.limit | default: site.data.news.size %}
+<table class="news-table">
+  <tbody>
+  {% for item in site.data.news limit: news_limit %}
+    <tr>
+      <td class="news-date">{{ item.date }}</td>
+      <td class="news-type"><span class="news-badge news-badge--{{ item.type | downcase | slugify }}">{{ item.type }}</span></td>
+      <td class="news-text">{{ item.text | markdownify | remove: '<p>' | remove: '</p>' | strip }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
 
