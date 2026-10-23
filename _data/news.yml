@@ -7,19 +7,23 @@
   text: "EMNLP 2026: 9 papers accepted (3 Main, 2 Findings, 4 workshop papers) 🎉📚 spanning XAI, MechInterp, reliable knowlede retrieval, confirmation bias and LLM asa judge evaluation. [LinkedIn post](https://lnkd.in/p/ePmU8jRa)"
 
 - date: "October 2026"
-  type: "Misc"
+  type: "Project"
   text: "Kick-off DFG Project: DUE-FactC: Designs, Uses, & Effects of Fact-Checking Model with Prof. Silvia Westerwick and Prof. Axel Gelfert (TUB)"
-
-- date: "September 2026"
-  type: "Talk"
-  text: "Invited talk at the State Representation Office of State Rhineland-Palatinate in Brussels: “Which counter-disinformation tools work; and how would we know? with President Prof. Krausch and Vice-President Müller-Stach of JGU Mainz attending. [LinkedIn post](https://lnkd.in/p/eQexdsYM)"
 
 - date: "September 2026"
   type: "Talk"
   text: "Keynote at XAI Workshop at IJCAI conference “From Model Behaviour to Human Understanding - The Case for Actionable Explainable AI” information about the keynote [conference website](https://sites.google.com/view/xai-workshop-ijcai-2026/keynote-speakers)"
 
 - date: "September 2026"
-  type: "Misc"
+  type: "Project"
+  text: "Accepted BMFTR project for Foundations of ML: "XPLAINER: Explainable LLM Monitoring with Robustness Benchmarking" together with Porf. Wojciech Samek (Fraunhofer HHI/TU Berlin/BIFOLD), Prof. Kristian Kersting (TU Darmstadt/DFKI), Gretchen.AI and Kroker Legal. The project will start in January 27 and I am looking for a new PhD and student researchers."
+
+- date: "September 2026"
+  type: "Talk"
+  text: "Invited talk at the State Representation Office of State Rhineland-Palatinate in Brussels: “Which counter-disinformation tools work; and how would we know? with President Prof. Krausch and Vice-President Müller-Stach of JGU Mainz attending. [LinkedIn post](https://lnkd.in/p/eQexdsYM)"
+
+- date: "September 2026"
+  type: "Project"
   text: "Project Kick-off EU FIMI-RESIST, I am coordinating [Press Release](https://press.uni-mainz.de/disinformation-and-influence-operations-which-countermeasures-actually-work/)"
 
 - date: "June 2026"
