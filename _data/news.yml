@@ -1,1 +1,15 @@
+# Newest items first. "type" picks the badge style: Accept, Talk or Misc.
+# "text" accepts Markdown, so you can add links and emojis.
+# Replace these example entries with your own news.
 
+- date: "September 2026"
+  type: "Accept"
+  text: "EMNLP 2026: 2 papers accepted (1 Main, 1 Findings) 🎉📚"
+
+- date: "September 2026"
+  type: "Misc"
+  text: "Became a member of [Example Network](https://example.org)"
+
+- date: "July 2026"
+  type: "Talk"
+  text: "Invited talk at Example University"
