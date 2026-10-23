@@ -39,3 +39,83 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* ==========================================================================
+   NEWS TABLE  (paste at the very end of assets/css/main.scss)
+   ========================================================================== */
+
+.news-table {
+  font-size: 1em;
+  line-height: 1.5;
+  margin-bottom: 2em;
+  border: 1px solid $border-color;
+}
+
+.news-table td {
+  vertical-align: top;
+  padding: 0.75em 1em;
+  border-bottom: 1px solid $border-color;
+  border-right: 1px solid $border-color;
+}
+
+.news-date {
+  width: 1%;
+  white-space: nowrap;
+  font-size: 0.85em;
+  color: $gray;
+}
+
+.news-type {
+  width: 1%;
+  white-space: nowrap;
+}
+
+.news-badge {
+  display: inline-block;
+  padding: 0.2em 0.9em;
+  border: 1.5px solid transparent;
+  border-radius: 999px;
+  font-size: 0.85em;
+  font-weight: 600;
+  line-height: 1.5;
+  /* default look, used by Talk and any other type you invent */
+  background-color: rgba(122, 130, 136, 0.18);
+  color: $text-color;
+}
+
+/* Accept: soft blue pill */
+.news-badge--accept {
+  background-color: rgba(82, 173, 200, 0.15);
+  color: $link-color;
+}
+
+/* Misc: blue outline */
+.news-badge--misc {
+  background-color: transparent;
+  border-color: $link-color;
+  color: $link-color;
+}
+
+/* Phones: date and badge sit above the text */
+@media (max-width: 600px) {
+  .news-table tr {
+    display: block;
+    border-bottom: 1px solid $border-color;
+    padding: 0.5em 0;
+  }
+
+  .news-table td {
+    border: none;
+    padding: 0.25em 0.75em;
+  }
+
+  .news-date,
+  .news-type {
+    display: inline-block;
+    width: auto;
+  }
+
+  .news-text {
+    display: block;
+  }
+}
