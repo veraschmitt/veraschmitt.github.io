@@ -2,14 +2,40 @@
 # "text" accepts Markdown, so you can add links and emojis.
 # Replace these example entries with your own news.
 
-- date: "Oct 2026"
+- date: "October 2026"
   type: "Accept"
   text: "EMNLP 2026: 9 papers accepted (3 Main, 2 Findings, 4 workshop papers) 🎉📚 spanning XAI, MechInterp, reliable knowlede retrieval, confirmation bias and LLM asa judge evaluation. https://lnkd.in/p/ePmU8jRa"
 
+- date: "October 2026"
+  type: "Misc"
+  text: "Kick-off DFG Project: DUE-FactC: Designs, Uses, & Effects of Fact-Checking Model with Prof. Silvia Westerwick and Prof. Axel Gelfert (TUB)"
+
+- date: "September 2026"
+  type: "Talk"
+  text: "Invited talk atState Representation Office of State Rhineland-Palatinate in Brussels: “Which counter-disinformation tools work; and how would we know? with President Prof. Krausch and Vice-President Müller-Stach of JGU Mainz attending "
+
+- date: "September 2026"
+  type: "Talk"
+  text: "Keynote at XAI Workshop at IJCAI conference “From Model Behaviour to Human Understanding - The Case for Actionable Explainable AI” information about the keynote https://sites.google.com/view/xai-workshop-ijcai-2026/keynote-speakers"
+
 - date: "September 2026"
   type: "Misc"
-  text: "Became a member of [Example Network](https://example.org)"
+  text: "Project Kick-off EU FIMI-RESIST, I am coordinating https://press.uni-mainz.de/disinformation-and-influence-operations-which-countermeasures-actually-work/"
 
-- date: "July 2026"
+- date: "June 2026"
   type: "Talk"
-  text: "Invited talk at Example University"
+  text: "Keynote at AI Transparency Conference 2026 “UNDERSTAND: Transparency & Interpretability https://coairesearch.org/aitc-2026/"
+
+- date: "June 2026"
+  type: "Misc"
+  text: "Appointed as professor at Johannes Gutenberg University for Information Systems"
+
+- date: "April 2026"
+  type: "Accept"
+  text: "ACL 2026: 5 papers accepted at ACL (3 main, 1 finding, 1 workshop paper) spanning steering interventions, temporal framing analysis, multilingual counterfactuals and propaganda analysis https://lnkd.in/p/exdE38vV"
+
+- date: "March 2026"
+  type: "Accept"
+  text: "EACL 2026: 4 papers accepted at ACL (1 main, 2 workshop paper) spanning persona prompting, multimodal retrieval for automated verification and news credibility assessment https://lnkd.in/p/e5vT6bum"
+
+  
