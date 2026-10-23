@@ -2,9 +2,9 @@
 # "text" accepts Markdown, so you can add links and emojis.
 # Replace these example entries with your own news.
 
-- date: "September 2026"
+- date: "Oct 2026"
   type: "Accept"
-  text: "EMNLP 2026: 2 papers accepted (1 Main, 1 Findings) 🎉📚"
+  text: "EMNLP 2026: 9 papers accepted (3 Main, 2 Findings, 4 workshop papers) 🎉📚 spanning XAI, MechInterp, reliable knowlede retrieval, confirmation bias and LLM asa judge evaluation. https://lnkd.in/p/ePmU8jRa"
 
 - date: "September 2026"
   type: "Misc"
