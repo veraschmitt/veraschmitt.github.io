@@ -82,17 +82,14 @@ analytics:
 author:
   name             : "Prof. Dr. Vera Schmitt"
   avatar           : "profile.png"
-  bio              : "Head of XplaiNLP Research Group at JGU Mainz Technische Universität Berlin, guest researcher at Speech and Language Technology at the German Research Center for Artificial Intelligence (DFKI)"
+  bio              : "Head of XplaiNLP Research Group at JGU Mainz TU Berlin, guest researcher at DFKI research at the intersection of NLP, XAI and meaningful model control"
   location         : "Mainz, Berlin" 
-  Group Website    : "https://xplainlp.uni-mainz.de/" 
-  employer         : "https://www.semanticscholar.org/author/Vera-Schmitt/2114572998"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  linkedin         : "vera-schmitt"
+  uri              : "https://xplainlp.uni-mainz.de/" 
   googlescholar    : "https://scholar.google.com/citations?user=pKbJC10AAAAJ&hl=en&oi=ao"
+  semantic         : "https://www.semanticscholar.org/author/Vera-Schmitt/2114572998"
   orcid            : "https://orcid.org/0000-0002-9735-6956"
-  email            :
-  researchgate     : "https://www.researchgate.net/profile/Vera-Schmitt-3"
-  uri              :
+  linkedin         : "vera-schmitt"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   bitbucket        :
   codepen          :
   dribbble         :
