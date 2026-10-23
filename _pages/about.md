@@ -20,3 +20,7 @@ The XplaiNLP group develops Intelligent Decision Support Systems (IDSS) that are
 - **Robust & Compliant LLMs:** Benchmarking LLM robustness and European value alignment, building explainable LLM monitoring, and supporting compliance with the AI Act and related regulation.
 
 Through interdisciplinary and international collaboration with partners in academia, media, and industry, XplaiNLP shapes AI that is not only powerful but also transparent, fair, and accountable.
+
+## News 📰
+
+{% include news.html %}
